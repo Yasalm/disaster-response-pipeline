@@ -20,6 +20,8 @@ Udacity's project titled as "Disaster Response Pipeline Project" aim to train a 
 - flask
 - argparse
 
+# Screenshots 
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
