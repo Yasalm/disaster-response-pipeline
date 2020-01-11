@@ -21,7 +21,7 @@ Udacity's project titled as "Disaster Response Pipeline Project" aim to train a 
 - argparse
 
 # Screenshots 
-
+![alt text](https://github.com/yasir-almutairi/disaster-response/blob/master/screenshot/Screen%20Shot%202020-01-11%20at%207.35.57%20PM.png)
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
