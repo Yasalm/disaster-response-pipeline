@@ -8,11 +8,14 @@ Udacity's project titled as "Disaster Response Pipeline Project" aim to train a 
 
 
 
+
 # Software and Libaries
-- Python
+- Python + 3.5
 - NumPy
 - pandas
 - scikit-learn (v0.17)
+- SQLalchemy
+- NLTK
 - Plotly
 - flask
 - argparse
