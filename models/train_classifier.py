@@ -94,8 +94,9 @@ def build_model():
 
         ('clf', MultiOutputClassifier(AdaBoostClassifier()))
     ])
+    
     parameters = {
-        'features__text_pipeline__tfidf__use_idf': ((1, 1),(1, 2)),
+        'features__text_pipeline__vect__ngram_rangef': ((1, 1),(1, 2)),
         'features__text_pipeline__tfidf__use_idf': (True, False)
    
         }
