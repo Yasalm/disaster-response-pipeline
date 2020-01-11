@@ -21,10 +21,10 @@ Udacity's project titled as "Disaster Response Pipeline Project" aim to train a 
 - argparse
 
 # Screenshots 
-1- Main Page. Shows Graph of training data. e.g diffrenet types of categories and genre. 
+1. Main Page. Shows Graph of training data. e.g diffrenet types of categories and genre. 
 ![alt text](https://github.com/yasir-almutairi/disaster-response/blob/master/screenshot/Screen%20Shot%202020-01-11%20at%207.35.57%20PM.png)
 
-2- Here is an example of predicted categories of a distress message.
+2. Here is an example of predicted categories of a distress message.
 
 ![alt text](https://github.com/yasir-almutairi/disaster-response/blob/master/screenshot/Screen%20Shot%202020-01-11%20at%207.45.14%20PM.png)
 
