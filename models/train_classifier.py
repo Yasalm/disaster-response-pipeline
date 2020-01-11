@@ -81,7 +81,7 @@ def build_model():
     Arguments:
         None.
     Return:
-        Pipeline: Scikit ML Pipeline.
+        model: Scikit ML Pipeline.
     """
     pipeline = Pipeline([
         ('features', FeatureUnion([
@@ -94,7 +94,15 @@ def build_model():
 
         ('clf', MultiOutputClassifier(AdaBoostClassifier()))
     ])
-    return pipeline
+    parameters = {
+        'features__text_pipeline__tfidf__use_idf': ((1, 1),(1, 2)),
+        'features__text_pipeline__tfidf__use_idf': (True, False)
+   
+        }
+
+    model = GridSearchCV(pipeline, parameters)
+
+    return model
 
 
 def evaluate_model(model, X_test, Y_test, category_names):
