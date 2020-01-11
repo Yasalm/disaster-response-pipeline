@@ -1,4 +1,21 @@
-# Disaster Response Pipeline Project
+# Data Scientist nano degree
+
+## Disaster Response Pipeline Project
+
+
+# Description 
+Udacity's project titled as "Disaster Response Pipeline Project" aim to train a model to classifiy Disaster messagaes.
+
+
+
+# Software and Libaries
+- Python
+- NumPy
+- pandas
+- scikit-learn (v0.17)
+- Plotly
+- flask
+- argparse
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
