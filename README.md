@@ -4,7 +4,7 @@
 
 
 # Description 
-Udacity's project titled as "Disaster Response Pipeline Project" aim to train a model to classifiy Disaster messagaes.
+Udacity's project titled as "Disaster Response Pipeline Project" aim to train a model to classifiy Disaster messagaes.It aims to use Natural Language Processing to categorise disatore tweets. The provide data contained pre-labeld tweets.
 
 
 
