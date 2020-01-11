@@ -23,9 +23,13 @@ Udacity's project titled as "Disaster Response Pipeline Project" aim to train a 
 # Screenshots 
 - Main Page. Shows Graph of data.
 ![alt text](https://github.com/yasir-almutairi/disaster-response/blob/master/screenshot/Screen%20Shot%202020-01-11%20at%207.35.57%20PM.png)
+
 - Here is an example of predicted category of a distress message.
+
 ![alt text](https://github.com/yasir-almutairi/disaster-response/blob/master/screenshot/Screen%20Shot%202020-01-11%20at%207.45.14%20PM.png)
+
 ![alt text](https://github.com/yasir-almutairi/disaster-response/blob/master/screenshot/Screen%20Shot%202020-01-11%20at%207.45.23%20PM.png)
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
